@@ -1015,7 +1015,7 @@ n = JSON.parse(JSON.stringify(data));
 nimek = n[Math.floor(Math.random() * n.length)];
 pok = await getBuffer(nimek)
 Lxa.sendMessage(from, pok, image, {
-  quoted: mek, caption: `♞☞  𝕊𝓐тคŇ  🐲🏆`
+  quoted: mek, caption: `♞☞Él crack.r.informatico 🏆`
 })
 
 } catch {
@@ -1039,7 +1039,7 @@ n = JSON.parse(JSON.stringify(data));
 nimek = n[Math.floor(Math.random() * n.length)];
 pok = await getBuffer(nimek)
 Lxa.sendMessage(from, pok, image, {
-  quoted: mek, caption: `♞☞  𝕊𝓐тคŇ  🐲🏆`
+  quoted: mek, caption: `♞☞El crack.r.informatico 🏆`
 })
 
 } catch {
